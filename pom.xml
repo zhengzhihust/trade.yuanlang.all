@@ -11,7 +11,6 @@
     <modules>
         <module>trade.yuanlang.mq.all</module>
         <module>trade.yuanlang.netty</module>
-        <module>trade.yuanlang.netty</module>
     </modules>
 
 </project>
